@@ -3,6 +3,7 @@ Olá! Eu sou o Pedro Benjamin 👋
 - 🔭 Estudando Java, HTML, CSS, JS
 - 😄 Em busca de um estágio
 - ⚡ Sonho em viver de programação
+- 👋 https://www.linkedin.com/in/pedro-benjamin-855702219/
 
 
 <div align="center">
