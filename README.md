@@ -1,7 +1,7 @@
 Olá! Eu sou o Pedro Benjamin 👋
 
-- 🔭 Estudando Java, HTML, CSS, JS
-- 😄 Em busca de um estágio
+- 🔭 Estudando HTML, CSS, JS, REACT, NODE, EXPRESS, BOOTSTRAP, TAILWIND
+- 😄 Em busca de uma oportunidade na área
 - ⚡ Sonho em viver de programação
 - 👋 https://www.linkedin.com/in/pedro-benjamin-855702219/
 
