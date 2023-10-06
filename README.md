@@ -1,4 +1,4 @@
-Olá! Eu sou o Pedro Benjamin 👋
+Olá! Eu sou o Pedro Benjamin, Dev Full Stack Júnior 👋
 
 - 🔭 Estudando HTML, CSS, JS, REACT, NODE, EXPRESS, BOOTSTRAP, TAILWIND
 - 😄 Em busca de uma oportunidade na área
