@@ -1,9 +1,9 @@
-Olá! Eu sou o Pedro Benjamin, Dev Full Stack Júnior 👋
+Olá! Eu sou Pedro Benjamin, Dev Full Stack 👋
 
-- 🔭 Estudando HTML, CSS, JavaScript, React, Java
+- 🔭 Estudando HTML, CSS, JavaScript, React, Node.js, Java e SQL
 - 😄 Em busca de uma oportunidade na área
 - ⚡ Sonho em viver de programação
-- 👋 https://www.linkedin.com/in/pedro-benjamin-855702219/
+- 👋 Linkedin: https://www.linkedin.com/in/pedro-benjamin-3005762b0/
 
 
 <div align="center">
