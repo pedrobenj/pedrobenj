@@ -46,6 +46,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/pedrobenj/pedrobenj/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Light](https://github.com/pedrobenj/pedrobenj/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/pedrobenj/pedrobenj/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
 ###
