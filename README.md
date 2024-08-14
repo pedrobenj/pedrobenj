@@ -46,7 +46,6 @@
 
 <br clear="both">
 
-![GitHub Snake Light](https://github.com/pedrobenj/pedrobenj/blob/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/pedrobenj/pedrobenj/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://github.com/pedrobenj/pedrobenj/blob/output/github-contribution-grid-snake.svg)
 
 ###
