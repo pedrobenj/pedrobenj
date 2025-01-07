@@ -14,4 +14,29 @@ class Skills extends Desenvolvedor {
   frameworks = ["Vite, Next, Spring"];
 }
 ```
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=pedrobenj&show_icons=true&title_color=000000&text_color=000000&icon_color=000000&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=pedrobenj&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobenj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=pedrobenj&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
