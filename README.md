@@ -12,6 +12,7 @@ class Skills extends Desenvolvedor {
   linguagens = ["Javascript, Typescript, Java"];
   bibliotecas = ["React"];
   frameworks = ["Vite, Next, Spring"];
+  atuando = ["Front-end"];
 }
 ```
 <table>
