@@ -9,10 +9,10 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Javascript, Typescript, Java"];
+  linguagens = ["Javascript, Typescript, Java, Node"];
   bibliotecas = ["React"];
-  frameworks = ["Vite, Next, Spring"];
-  atuando = ["Front-end"];
+  frameworks = ["Vite, Next, Spring, Nest"];
+  atuando = ["Front-end e Back-end"];
 }
 ```
 <table>
