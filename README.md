@@ -16,20 +16,29 @@ class Skills extends Desenvolvedor {
 }
 ```
 <table>
-  <tr>
+    <tr>
+    
+  </tr>
+  
+  <tr align='center'>
+    <td colspan='2'>
+       <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobenj&layout=compact&hide_border=true&langs_count=8&theme=algolia"/>
+    </td>
+<!--      <td>
+    <img width="90%" src="https://profile-counter.glitch.me/Gustavonn07/count.svg">
+    </td> -->
+  </tr>
+  
+  <tr></tr>
+  
+  <tr align='center'>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=pedrobenj&theme=dark&hide_border=false&include_all_commits=true"
-        alt="Github Stats"
-      />
+      <img height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrobenj&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia" />
     </td>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobenj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
+      <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=pedrobenj&theme=algolia&hide_border=true" />
     </td>
   </tr>
+  
+  <tr></tr>
 </table>
