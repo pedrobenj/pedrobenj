@@ -36,7 +36,7 @@ class Skills extends Desenvolvedor {
       <img height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pedrobenj&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=algolia" />
     </td>
     <td>
-      <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=pedrobenj&theme=algolia&hide_border=true" />
+      <img height="100%" src="https://github-readme-streak-stats.herokuapp.com?user=pedrobenj&theme=algolia&hide_border=false" />
     </td>
   </tr>
   
