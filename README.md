@@ -17,7 +17,7 @@ class Skills extends Developer {
   languages = ["Javascript, Typescript, Java, Node"];
   libraries = ["React"];
   frameworks = ["Vite, Next, Spring, Nest, Native"];
-  working = ["Front-end e Back-end"];
+  working = ["Front-end and Back-end"];
 }
 ```
 <table>
