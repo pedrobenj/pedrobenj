@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/pedrobenj/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;1year%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=072794&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20web%20and%20app%20developer;1%20year%20of%20coding%20experience;Always%20learning%20new%20things;creative%20solutions;&font=Fira%20Code&center=true&width=440&height=45&color=072794&vCenter=true&pause=1000&size=22" /></a>
 </p>
 ```js
 import Desenvolvedor from "pedrobenj";
