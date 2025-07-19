@@ -29,9 +29,6 @@ class Skills extends Developer {
     <td colspan='2'>
        <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobenj&layout=compact&hide_border=true&langs_count=8&theme=algolia"/>
     </td>
-   <td>
-      <img width="90%" src="https://profile-counter.glitch.me/pedrobenj/count.svg">
-    </td> 
   </tr>
   
   <tr></tr>
