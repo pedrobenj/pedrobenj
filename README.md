@@ -4,20 +4,20 @@
 </p>
 
 ```js
-import Desenvolvedor from "pedrobenj";
+import Developer from "pedrobenj";
 
-class SobreMim extends Desenvolvedor {
-  nome = "Pedro Benjamin";
-  area = "Desenvolvimento de Software";
-  trabalho = "AstroTech Software House";
-  local = "Brasil";
+class AboutMe extends Developer {
+  name = "Pedro Benjamin";
+  area = "Software Developer";
+  job = "AstroTech Software House";
+  location = "Brazil";
 }
 
-class Skills extends Desenvolvedor {
-  linguagens = ["Javascript, Typescript, Java, Node"];
-  bibliotecas = ["React"];
+class Skills extends Developer {
+  languages = ["Javascript, Typescript, Java, Node"];
+  libraries = ["React"];
   frameworks = ["Vite, Next, Spring, Nest, Native"];
-  atuando = ["Front-end e Back-end"];
+  working = ["Front-end e Back-end"];
 }
 ```
 <table>
@@ -29,9 +29,9 @@ class Skills extends Desenvolvedor {
     <td colspan='2'>
        <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobenj&layout=compact&hide_border=true&langs_count=8&theme=algolia"/>
     </td>
-<!--      <td>
-    <img width="90%" src="https://profile-counter.glitch.me/Gustavonn07/count.svg">
-    </td> -->
+   <td>
+      <img width="90%" src="https://profile-counter.glitch.me/pedrobenj/count.svg">
+    </td> 
   </tr>
   
   <tr></tr>
