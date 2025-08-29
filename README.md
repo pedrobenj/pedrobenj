@@ -23,8 +23,6 @@ class Skills extends Developer {
 ```
 <h1>Skills</h1>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt=vscode logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
