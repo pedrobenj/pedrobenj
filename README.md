@@ -44,10 +44,4 @@ class Skills extends Developer {
   
   <tr></tr>
 </table>
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pedrobenj/pedrobenj/output/snake.svg" alt="Snake animation" />
-
-###
