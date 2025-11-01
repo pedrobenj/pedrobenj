@@ -56,13 +56,9 @@ class Skills extends Developer {
 
 <h1>Learning</h1>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=prisma" height="60" alt="prisma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cypress" height="60" alt="cypress logo"  />
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React Native" title="React Native"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/expo.png" alt="Expo" title="Expo"/></code>
 </div>
 
 ###
