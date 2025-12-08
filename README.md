@@ -9,7 +9,7 @@ import Developer from "pedrobenj";
 class AboutMe extends Developer {
   name = "Pedro Benjamin";
   area = "Software Developer";
-  job = "AstroTech Software House";
+  job = "Match Sales";
   location = "Brazil";
 }
 
