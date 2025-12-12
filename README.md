@@ -18,7 +18,7 @@ class Skills extends Developer {
   languages = ["Javascript, Typescript, Java, Node"];
   libraries = ["React"];
   frameworks = ["Vite, Next, Spring, Nest, Native"];
-  working = ["Front-end"];
+  working = ["Front-end, UI/UX"];
 }
 ```
 <h1>Skills</h1>
