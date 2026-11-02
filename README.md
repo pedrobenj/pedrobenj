@@ -14,11 +14,11 @@ class AboutMe extends Developer {
 }
 
 class Skills extends Developer {
-  senior: ["Full-Stack Junior"]
+  senior: ["Full-Stack Developer"]
   languages = ["Javascript, Typescript, Java, Node"];
   libraries = ["React"];
   frameworks = ["Vite, Next, Spring, Nest, Native"];
-  working = ["Front-end, UI/UX"];
+  working = ["Full-Stack, UI/UX"];
 }
 ```
 <h1>Skills</h1>
