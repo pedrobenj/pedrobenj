@@ -4,21 +4,19 @@
 </p>
 
 ```js
-import Developer from "pedrobenj";
+import { Developer } from "pedrobenj";
 
-class AboutMe extends Developer {
+class PedroBenjamin extends Developer {
   name = "Pedro Benjamin";
-  area = "Software Developer";
-  job = "Match Sales";
-  location = "Brazil";
-}
+  role = "Full-Stack Engineer";
+  company = "Match Sales";
+  location = "Fortaleza, Brazil";
 
-class Skills extends Developer {
-  senior: ["Full-Stack Developer"]
-  languages = ["Javascript, Typescript, Java, Node"];
-  libraries = ["React"];
-  frameworks = ["Vite, Next, Spring, Nest, Native"];
-  working = ["Full-Stack, UI/UX"];
+  languages = ["JavaScript", "TypeScript", "Java"];
+  frontend = ["React", "Next.js", "React Native", "Tailwind CSS"];
+  backend = ["Node.js", "NestJS", "Spring Boot"];
+  tools = ["Vite", "TanStack Query", "Zustand", "Zod"];
+  focus = ["Full-Stack", "UI/UX"];
 }
 ```
 <h1>Skills</h1>
